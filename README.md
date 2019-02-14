@@ -5,3 +5,5 @@ Diversity and population structure of variant antigen genes can explain why immu
 
 
 The code is for the accumulation curve simulations. We ran it on the High Performance Computer cluster called Midway at the University of Chicago but it can be easily adapted to run on any HPC system or locally.
+
+Please note: We ran the code on University of Chicago's Midway High Performance Computing system platform ("cluster"). Code may need to be adapted to a different HPC platform.
